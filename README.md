@@ -1,9 +1,11 @@
 # duo-rea-server
 This project is the backend of the UI code challenge.
+
 Based on Express(4.17.1).
 
 ### How to Run
 ```npm install```
+
 ```node index.js```
 
 ### Project Structure
